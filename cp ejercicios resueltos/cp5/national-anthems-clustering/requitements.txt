@@ -1,0 +1,12 @@
+numpy
+pandas
+nltk
+unidecode
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+folium
+branca
+geopandas
+json
